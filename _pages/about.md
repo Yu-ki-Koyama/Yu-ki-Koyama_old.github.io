@@ -2,27 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: Harada Laboratory (formerly <a href='http://www.nml.t.u-tokyo.ac.jp/'>Mitsuishi-Harada Laboratory</a>). <a href='https://www.u-tokyo.ac.jp/en/index.html'>The University of Tokyo</a>, Japan. 
+subtitle: Researcher at <a href='https://global.honda/RandD/'>Honda R&D Japan</a> 
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    Ph.D. Student in Mechanical Engineering
+    Researcher in Robotics
     
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Automating tasks by using robots is something I've been passionate about.
+From April 2023, I started working at <a href='https://global.honda/RandD/'>Honda R&D Japan</a> as a reseacher in <a href='https://global.honda/RandD/hgrx/'>Robotics</a>. 
 
-I am a Ph.D. student at the Department of Mechanical Engineering, the University of Tokyo, Tokyo, Japan. I am currently a member of the Harada Laboratory (formerly <a href='http://www.nml.t.u-tokyo.ac.jp/'>Mitsuishi-Harada Laboratory</a>). 
+I received a Bachelor's degree (2018) in Mechanical Engineering from the <a href='http://www2.mech.t.u-tokyo.ac.jp/'>Department of Mechanical Engineering</a>, the University of Tokyo. I obtained a Master's degree (2020) and a Ph.D. (2023) in Mechanical Engineering from the <a href='https://www.t.u-tokyo.ac.jp/soe'>Graduate School of Engineering</a>, the University of Tokyo.
 
-I received the Bachelor's degree (2018) in Mechanical Engineering from the <a href='http://www2.mech.t.u-tokyo.ac.jp/'>Department of Mechanical Engineering</a>, the University of Tokyo. I obtained the Master's degree (2020) in Mechanical Engineering from the <a href='https://www.t.u-tokyo.ac.jp/soe'>Graduate School of Engineering</a>, the University of Tokyo.
+I was a member of the Harada Laboratory (formerly <a href='http://www.nml.t.u-tokyo.ac.jp/'>Mitsuishi-Harada Laboratory</a>) of <a href='https://www.u-tokyo.ac.jp/en/index.html'>the University of Tokyo</a>, Japan.
 
-Currently, I've been working on automating tasks of eye surgery using industrial robots. Notably, <a href='https://ieeexplore.ieee.org/document/9695979'>TMRB22</a>, <a href='https://arxiv.org/abs/2302.05567'>ICRA23 (Accepted for publication)</a>.
+Automating tasks by using robots is something I've been passionate about. During my graduation research, I worked on automating tasks of eye surgery using industrial robots. Notably, <a href='https://ieeexplore.ieee.org/document/9695979'>TMRB22</a>, <a href='https://arxiv.org/abs/2302.05567'>ICRA23 (Accepted for publication)</a>.
 
 [](I have strong technical skills, particularly in robotics, system integration, and programming, and an academic background in engineering and surgical robotics.)
 
