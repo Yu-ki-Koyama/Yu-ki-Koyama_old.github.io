@@ -22,7 +22,7 @@ I received a Bachelor's degree (2018) in Mechanical Engineering from the <a href
 
 I was a member of the Harada Laboratory (formerly <a href='http://www.nml.t.u-tokyo.ac.jp/'>Mitsuishi-Harada Laboratory</a>) of <a href='https://www.u-tokyo.ac.jp/en/index.html'>the University of Tokyo</a>, Japan.
 
-Automating tasks by using robots is something I've been passionate about. During my graduation research, I worked on automating tasks of eye surgery using industrial robots. Notably, <a href='https://ieeexplore.ieee.org/document/9695979'>TMRB22</a>, <a href='https://arxiv.org/abs/2302.05567'>ICRA23 (Accepted for publication)</a>.
+Automating tasks by using robots is something I've been passionate about. During my graduation research, I worked on automating tasks of eye surgery using industrial robots. Notably, <a href='https://ieeexplore.ieee.org/document/9695979'>TMRB22</a>, <a href='https://arxiv.org/abs/2302.05567'>ICRA23</a>.
 
 [](I have strong technical skills, particularly in robotics, system integration, and programming, and an academic background in engineering and surgical robotics.)
 
