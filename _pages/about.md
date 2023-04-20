@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-From April 2023, I started working at <a href='https://global.honda/RandD/'>Honda R&D Japan</a> as a reseacher in <a href='https://global.honda/RandD/hgrx/'>Robotics</a>. 
+From April 2023, I started working at <a href='https://global.honda/RandD/'>Honda R&D Japan</a> as a researcher in <a href='https://global.honda/RandD/hgrx/'>Robotics</a>. 
 
 I received a Bachelor's degree (2018) in Mechanical Engineering from the <a href='http://www2.mech.t.u-tokyo.ac.jp/'>Department of Mechanical Engineering</a>, the University of Tokyo. I obtained a Master's degree (2020) and a Ph.D. (2023) in Mechanical Engineering from the <a href='https://www.t.u-tokyo.ac.jp/soe'>Graduate School of Engineering</a>, the University of Tokyo.
 
